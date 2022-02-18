@@ -15,3 +15,4 @@ We will use following BN in this problem.
 * Likelihood Weighting
 * Gibbs Sampling
 
+<img src="Images/Sampling.jpg" width=750 height=350 />
